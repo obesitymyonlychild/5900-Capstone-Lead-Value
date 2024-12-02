@@ -1,5 +1,7 @@
 # 5900-Capstone-Lead-Value
 
+## PCA
+
 ## Segmentation
 
 ### setup
@@ -17,3 +19,5 @@ Created company-level data from the cleaned opportunity-only dataset.
 ### stage 3: modeling 
 
 Segmentated with PCA/T-SNE/UMAP + HDBSCAN/HBSCAN/KMEANS
+
+## Time Series Analysis
