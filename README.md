@@ -2,6 +2,10 @@
 
 ## Segmentation
 
+### setup
+
+Place datasets in `main/data/` directory. Run the following notebooks.
+
 ### stage 1: data cleaning
 
 Separated lead and opportunity data from the opportunity dataset.
